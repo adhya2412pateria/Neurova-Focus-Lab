@@ -1,0 +1,6 @@
+
+streamlit
+pandas
+numpy
+Orange3
+PyQt5
