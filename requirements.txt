@@ -1,4 +1,4 @@
 streamlit
 pandas
 numpy
-orange3
+Orange3
