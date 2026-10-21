@@ -1,3 +1,0 @@
-streamlit
-Orange3
-numpy
